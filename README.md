@@ -1,16 +1,14 @@
-### Hi there 👋
+Hi there 👋
+My name is Bartosz, but people call be Bartek - sounds better - welcome!
 
-<!--
-**D34THNOTE/D34THNOTE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A little bit about me:
 
-Here are some ideas to get you started:
+I'm a Computer Science student at Polish Japanese Academy of Information Technology since the winter semester of 2020/21, now minoring in Databases
+Based in Warsaw, Poland
+My first programming language is Java and I feel pretty good in it!
+For the past semester my main focus has been web development, I have developed a website project with backend in Node.js(Express) and frontend in React.js, utilizing MySQL and MongoDB databases
+And now a few obligatory emoji lines suggested by Github!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning Typescript, Next.js, better documentation and machine learning
+👯 I’m looking to collaborate on any web based or Java based projects
+📫 How to reach me: detnotatka@gmail.com
