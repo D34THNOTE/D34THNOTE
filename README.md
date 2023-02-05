@@ -11,4 +11,4 @@ A little bit about me:
 And now a few obligatory emoji lines suggested by Github!
 - 🌱 I’m currently learning Typescript, Next.js, better documentation and machine learning
 - 👯 I’m looking to collaborate on any web based or Java based projects
-- 📫 How to reach me: detnotatka@gmail.com
+- 📫 How to reach me: detnotatka@gmail.com , D34THNOTE#9322 on Discord
