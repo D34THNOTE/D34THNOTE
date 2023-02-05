@@ -2,6 +2,8 @@
 
 My name is Bartosz, but people call be Bartek - sounds better - welcome!
 
+[You can visit my website here!](https://d34thnote.github.io/Personal_website/#/About)
+
 A little bit about me:
 - I'm a Computer Science student at Polish Japanese Academy of Information Technology since the winter semester of 2020/21, now minoring in Databases
 - Based in Warsaw, Poland
