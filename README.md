@@ -2,6 +2,8 @@
 
 My name is Bartosz, but people call be Bartek - sounds better - welcome!
 
+(note: [this account isn't fully representative of my activity](https://github.com/D34THNOTE/Preserving-activity-history))
+
 [You can visit my website here!](https://d34thnote.github.io/Personal_website/#/About)
 
 A little bit about me:
